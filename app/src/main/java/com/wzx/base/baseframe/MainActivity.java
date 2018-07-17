@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     @CheckNet
     public void dosth(){
         Log.e("TAG","--------正常");
+        Log.e("TAG","--------正常22");
     }
 }
